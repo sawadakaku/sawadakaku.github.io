@@ -23,7 +23,7 @@ Ksaw(Sawada Kaku)  
     - [White Map Maker](http://www.app-whitemap.appspot.com/)
     - [Anisommelier](https://anisom-161116.appspot.com)
 - Cyber Security
-    - enrolling in in the inter university course of ciber security, ["enPiT-Security(SecCap)"](https://www.seccap.jp)
+    - enrolling in in the inter university course of ciber security, ["enPiT-Security(SecCap)"](https://www.seccap.jp)
 - Conpetitive Programming
     - AtCoder: [Ksaw](https://atcoder.jp/user/Ksaw)
     - TopCoder: [ksaw](https://www.topcoder.com/members/ksaw/)
