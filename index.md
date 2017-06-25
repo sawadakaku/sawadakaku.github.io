@@ -1,4 +1,3 @@
-# Sawada Kaku
 
 ## ABOUT
 Ksaw(Sawada Kaku)  
