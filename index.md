@@ -2,7 +2,7 @@
 
 ## ABOUT
 Ksaw(Sawada Kaku)  
-![icon](img/icon.jpg)
+![icon](icon.jpg)
 
 - Student in Master program at Network Media Labratory, Department of Intelligence Science and Technology, Graduate school of Informatics, Kyoto University.  
 - B.A. in Economics, Kyoto University
