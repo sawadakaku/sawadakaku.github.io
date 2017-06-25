@@ -1,8 +1,8 @@
 # Sawada Kaku
 
 ## ABOUT
-Ksaw(Sawada Kaku)  
-![icon](icon.jpg)
+Ksaw(Sawada Kaku)  
+<img src="icon.jpg" width="30%">
 
 - Student in Master program at Network Media Labratory, Department of Intelligence Science and Technology, Graduate school of Informatics, Kyoto University.  
 - B.A. in Economics, Kyoto University
