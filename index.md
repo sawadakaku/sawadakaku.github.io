@@ -30,8 +30,8 @@ B.A. in Economics, Kyoto University
     - Codeforces: [ksaw](http://codeforces.com/profile/ksaw)
 - Machine Learning  
     - [Machine Learning by Stanford University on Coursera](https://www.coursera.org/learn/machine-learning)  
-        completed on 19th June, 2017
-    - [ビッグデータ大学 | Sansanデータ解析チャレンジ 名刺の記載項目予測](http://universityofbigdata.net/competition/5723788444434432)  
+        completed on 19th June, 2017  
+    - [ビッグデータ大学 | Sansanデータ解析チャレンジ 名刺の記載項目予測](http://universityofbigdata.net/competition/5723788444434432)   
         now enrolling. Top on Leaderboard!(25th June, 2017) 
 
 ### LINK
