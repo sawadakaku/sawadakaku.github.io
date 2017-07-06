@@ -32,8 +32,6 @@ Ksaw(Sawada Kaku)  
     - TEST
     - TEST
 
-    - STUDY [Machine Learning by Stanford University on Coursera](https://www.coursera.org/learn/machine-learning): completed on 19th June, 2017
-    - CONTEST [ビッグデータ大学 Sansanデータ解析チャレンジ 名刺の記載項目予測](http://universityofbigdata.net/competition/5723788444434432): won the first prize!
 ### LINK
 - [GitHub](https://github.com/sawadakaku)
 - [Twitter](https://twitter.com/Osacar_Wailda)
