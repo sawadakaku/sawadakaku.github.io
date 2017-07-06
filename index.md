@@ -30,7 +30,7 @@ Ksaw(Sawada Kaku)  
     - Codeforces: [ksaw](http://codeforces.com/profile/ksaw)
 - Machine Learning
     - test
-    - tes
+    - test
 
 ### LINK
 - [GitHub](https://github.com/sawadakaku)
