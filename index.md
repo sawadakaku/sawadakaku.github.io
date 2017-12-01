@@ -31,6 +31,12 @@ Ksaw(Sawada Kaku)  
 - Machine Learning
     - [Machine Learning by Stanford University on Coursera](https://www.coursera.org/learn/machine-learning) : completed on 19th June, 2017
     - [ビッグデータ大学 Sansanデータ解析チャレンジ 名刺の記載項目予測](http://universityofbigdata.net/competition/5723788444434432) : won the first prize!
+    - [Gunosy inc. Data Analitics Summer Intern](http://data.gunosy.io/entry/summer-internship-2017#京都大学大学院-澤田さん) : recieved MVP!
+
+### WORK
+- 2017.8-9: NTT Secure Platform Labratory Internship
+- 2017.8: Gunosy inc. Summer Internship
+- 2017.11: Gunosy inc. Internship
 
 ### LINK
 - [GitHub](https://github.com/sawadakaku)
