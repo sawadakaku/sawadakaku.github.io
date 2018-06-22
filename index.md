@@ -37,6 +37,7 @@ Ksaw(Sawada Kaku)  
 - 2017.8-9: NTT Secure Platform Labratory Internship
 - 2017.8: Gunosy inc. Summer Internship
 - 2017.11: Gunosy inc. Internship
+- 2018.4-5: mercari, Inc. Internship as Machine Learning Engineer
 
 ### LINK
 - [GitHub](https://github.com/sawadakaku)
